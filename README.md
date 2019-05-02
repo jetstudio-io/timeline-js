@@ -1,1 +1,1 @@
-timeline-js
+Clone project from https://github.com/almende/vis to Typescript & suitable for our requests
